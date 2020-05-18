@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="tvname">Name:</string>
+    <string name="editPax">3</string>
+    <string name="tvPax">Pax:</string>
+    <string name="btnProceed">Proceed</string>
+    <string name="btnClear">Clear</string>
+    <string name="cbSmoke">Smoking Area</string>
+    <string name="editPhone">90008000</string>
+    <string name="tvPhone">Phone:</string>
+    <string name="editName">John</string>
+</resources>
